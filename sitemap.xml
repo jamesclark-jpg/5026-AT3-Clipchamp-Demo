@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/</loc>
+	<lastmod>2026-09-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/clipchamp-screenshot.png</image:loc>
+	<image:title>clipchamp screenshot</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://jamesclark-jpg.github.io/5026-at3-clipchamp-demo/clipchamp-overview.html</loc>
+	<lastmod>2026-09-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://jamesclark-jpg.github.io/5026-at3-clipchamp-demo/know-your-students.html</loc>
+	<lastmod>2026-09-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/Two-Column%20Learning%20Infographic-2.png</image:loc>
+	<image:title>Two Column Learning Infographic-2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://jamesclark-jpg.github.io/5026-at3-clipchamp-demo/implementation.html</loc>
+	<lastmod>2026-09-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://jamesclark-jpg.github.io/5026-AT3-Clipchamp-Demo/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
